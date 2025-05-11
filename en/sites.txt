@@ -7,3 +7,5 @@ affect.rbx (Known as Affect) - Subscription Service allowing users to buy or req
 catweb.rbx (Known as CatWeb or CatWeb Search) - Official Search Engine endorsed by HumanCat222 - Made by HumanCat222
 yandex.rbx (Known as Yandex) - Search Engine remaking Yandex - Made by ShironBros
 catmusicc.rbx (Known as CatMusic) - A vintage styled music streaming service made to help people chill while creating sites in a 90s way. - Created by n00b_legend
+woeship.rbx (Knows as Woeship) - A in public prototype verification service inspired by Google Accounts and Z4 Accounts, while having features in mind to help all site owners with a cloud etc. - Created by n00b_legend
+cool.rbx (Known as Cool) - My creator that eats biryani 24/7. - Created by cool1234great
