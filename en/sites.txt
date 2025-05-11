@@ -6,3 +6,4 @@ mira.rbx (Known as mira or MIRA) - Intelligent AI agent like ChatGPT - Created b
 affect.rbx (Known as Affect) - Subscription Service allowing users to buy or request assets to be made for their sites - Made by awesome
 catweb.rbx (Known as CatWeb or CatWeb Search) - Official Search Engine endorsed by HumanCat222 - Made by HumanCat222
 yandex.rbx (Known as Yandex) - Search Engine remaking Yandex - Made by ShironBros
+catmusicc.rbx (Known as CatMusic) - A vintage styled music streaming service made to help people chill while creating sites in a 90s way. - Created by n00b_legend
